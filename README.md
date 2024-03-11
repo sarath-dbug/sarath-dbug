@@ -9,6 +9,7 @@ I'm Sarath Chandran, a passionate self-taught full stack web developer and a fre
   <img align="right" alt="GIF" src="https://github.com/malik-dinar/malik-dinar/blob/main/code.gif" width="500" height="320" />
   
 - 💼 Interested in freelance work? Reach me via [email](mailto:sarathpattambi2013@gmail.com) :)
+- 📄 Know about my experiences - [Resume]([https://drive.google.com/file/d/1TAkjvxYKXvf4M7H7Obi_fkLokuA1RARs/view?usp=sharing](https://drive.google.com/file/d/1AXVKRbuUbfK9Jj9IQ2QVMD9eAME52b3W/view?usp=drive_link))
 - 💬 Ask me about anything, I am happy to help!
 
 <h3 align="left">Connect with me:</h3>
