@@ -6,11 +6,12 @@
 
 I'm Sarath Chandran, a passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-  <img align="right" alt="GIF" src="https://github.com/malik-dinar/malik-dinar/blob/main/code.gif" width="500" height="320" />
   
-- 💼 Interested in freelance work? Reach me via [email](mailto:sarathpattambi2013@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:sarathpattambi2013@gmail.com) :)
 - 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1TAkjvxYKXvf4M7H7Obi_fkLokuA1RARs/view?usp=sharing)
 - 💬 Ask me about anything, I am happy to help!
+
+<img align="right" alt="GIF" src="https://github.com/malik-dinar/malik-dinar/blob/main/code.gif" width="500" height="320" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
